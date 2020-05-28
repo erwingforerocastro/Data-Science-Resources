@@ -1,2 +1,2 @@
-# Deep-Learning-con-python
- Ruta de aprendizaje para redes neuronales con python
+# Deep Learning con python
+Esta es una ruta sencilla de aprendizaje de proyectos usando python y sus librerias mas actualizadas.
