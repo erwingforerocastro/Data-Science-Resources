@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" href="https://www.python.org/">
-    <img src="http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1508150350/keras-watermark_vhhlzl.png" alt="Deep learning python">
+    <img src="logo.png" alt="Deep learning python">
   </a>
 </div>
 
