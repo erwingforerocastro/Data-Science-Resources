@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" href="https://www.python.org/">
-    <img src="logo.png" alt="Deep learning python">
+    <img src="logo.png" alt="Deep learning python" width="80%" height="200px">
   </a>
 </div>
 
