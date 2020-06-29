@@ -8,7 +8,7 @@
 
 # Deep Learning con python
 
-**Esta es una ruta sencilla de aprendizaje de proyectos usando python para la creación de redes neuronales**
+**Estos son los archivos resultantes del curso de deep learning impartido por Erwing FC**
 
 Erwing FC @ 2020
 </div>
