@@ -1,14 +1,14 @@
 <div align="center">
-  <a target="_blank" href="https://www.python.org/">
-    <img src="http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1508150350/keras-watermark_vhhlzl.png" alt="Deep learning python">
+  <a target="_blank" href="https://www.linkedin.com/in/erwing-forero-castro-586781133">
+    <img src="logo.png" alt="Data Science">
   </a>
 </div>
 
 <div align="center">
 
-# Deep Learning con python
+# Data Science
 
-**Estos son los archivos resultantes del curso de deep learning impartido por Erwing FC**
+**Estos son los archivos personales de ciencia de datos Erwing FC**
 
 Erwing FC @ 2020
 </div>
