@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/erwing-forero-castro-586781133">
-    <img src="logo.png" alt="Data Science">
+    <img src="logo.jpg" alt="Data Science">
 </div>
 
 <div align="center">
